@@ -5,6 +5,10 @@ See the [project page](http://chengao.vision/DRG/) for more details. Please cont
 
 <img src='demo/teaser.png'>
 
+安装问题：
+安装conda指令： 
+conda install pytorch torchvision=0.5.0 cudatoolkit=10.1 -c pytorch
+
 ### Prerequisites
 This codebase was tested with Python 3.6, Pytorch 1.0 from a nightly release, CUDA 10.0, and CentOS 7.4.1708.
 
